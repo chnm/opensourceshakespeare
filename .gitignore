@@ -1,0 +1,5 @@
+# Legacy PHP site and dump stay local; the dump contains UserAccounts with real emails and passwords.
+legacy/
+.venv/
+__pycache__/
+db.sqlite3
